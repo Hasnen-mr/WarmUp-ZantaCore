@@ -1,7 +1,5 @@
 # ZantaCore - The Ultimate Cold Email Outreach & CRM Integration Platform
 
-[![Website](https://img.shields.io/badge/Visit-ZantaCore.com-blue)](https://zantacore.com)
-[![Instagram](https://img.shields.io/badge/Follow-Instagram-purple)](https://instagram.com/zantacore)
 
 **ZantaCore** is the next-generation **cold email automation and CRM integration** platform built for sales teams, marketers, and entrepreneurs looking to scale their outreach while maintaining **high deliverability and engagement rates**.
 
@@ -46,7 +44,7 @@ ZantaCore **integrates seamlessly** with the following **popular CRM platforms**
 ---
 
 ## 🛠️ How to Get Started
-1. **Sign Up for ZantaCore**: [Create an account](https://zantacore.com/register)
+1. **Sign Up for ZantaCore**: [Create an account](https://zantacore.com/)
 2. **Connect Your Email**: Integrate with **Gmail, Outlook, SMTP, or custom providers**.
 3. **Import Leads**: Sync with your CRM or upload a CSV file.
 4. **Launch Campaigns**: Personalize, schedule, and track cold emails.
@@ -55,10 +53,10 @@ ZantaCore **integrates seamlessly** with the following **popular CRM platforms**
 ---
 
 ## 📘 Internal Resources
-- **[Cold Email Best Practices](https://zantacore.com/cold-email-guide)** 📩
-- **[CRM Integration Setup](https://zantacore.com/crm-integration)** 🔗
-- **[Email Warm-Up Tips](https://zantacore.com/email-warm-up)** 🚀
-- **[Success Stories](https://zantacore.com/case-studies)** 🎯
+- **[Cold Email Best Practices](https://zantacore.com/lead-generation-service)** 📩
+- **[CRM Integration Setup](https://zantacore.com/boost-email-delivery)** 🔗
+- **[Email Warm-Up Tips](https://zantacore.com/increase-email-delivery)** 🚀
+- **[Success Stories](https://zantacore.com/pricing)** 🎯
 
 ---
 
@@ -86,5 +84,5 @@ ZantaCore is a product of **ZantaTech Solutions** ([zantatech.com](https://zanta
 📷 **Instagram:** [@zantacore](https://instagram.com/zantacore)
 💼 **LinkedIn:** [ZantaCore LinkedIn](https://linkedin.com/company/zantacore)
 
-🚀 **Start Scaling Your Outreach Today!** [Get Started](https://zantacore.com/register)
+🚀 **Start Scaling Your Outreach Today!** [Get Started](https://zantacore.com)
 
